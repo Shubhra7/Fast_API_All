@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2>🍵 Shubhrajit’s Tea Inventory</h2>
+      <h2>🍵 Shubhrajit’s Tea Inventory 🍵</h2>
 
       <div className="form">
         <input
