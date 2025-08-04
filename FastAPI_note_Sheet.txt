@@ -5,4 +5,16 @@
    d. For all dependencies is one file ==> pip freeze > requirement.txt
 
 2. pydantic ==> like typescript in js ==> help to define the structure of coming and sending response
+3. Started with main.py ==> like ==> App.js
+
+4. For starting ==> uvicorn main:app --reload
+5. What is uvicorn?
+uvicorn is a lightweight, lightning-fast ASGI server used to run FastAPI apps (or any ASGI-compatible app like Starlette, Django Channels, etc.).
+
+Think of it as the Python version of Node.js's nodemon or express server, but optimized for async, high-performance APIs.
+
+
+6. POST, PUT,PATCH, DELETE Request check....
+   a. Can use POSTMAN
+   b. Can use http://127.0.0.1:8000/docs  ==> '/docs' ==> given by FastAPi
 
