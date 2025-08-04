@@ -1,0 +1,6 @@
+1. #For setup
+   a. create virtual environment ==> python -m venv venv
+   b. Activate the virtual environment ==> venv\Scripts\activate  (in cmd)
+   c. Install packages (e.g., FastAPI + Uvicorn) ==> pip install fastapi uvicorn
+   d. For all dependencies is one file ==> pip freeze > requirement.txt
+
