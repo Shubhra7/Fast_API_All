@@ -2,8 +2,8 @@
 
 A full-stack CRUD web application built using **FastAPI (Python)** for the backend and **React.js** for the frontend.
 
-> 🔗 **Frontend (React)**: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)  
-> 🔗 **Backend (FastAPI)**: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+>  🚀**Frontend (React)**
+>  🐍**Backend (FastAPI)**
 
 ---
 
