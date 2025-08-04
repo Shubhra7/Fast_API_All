@@ -20,6 +20,7 @@ h2 {
   font-size: 2.5rem;
   margin-bottom: 30px;
   background: linear-gradient(45deg, #00d8ff, #ff00c8);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: pulseGlow 2s infinite ease-in-out;
