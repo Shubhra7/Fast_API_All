@@ -4,3 +4,5 @@
    c. Install packages (e.g., FastAPI + Uvicorn) ==> pip install fastapi uvicorn
    d. For all dependencies is one file ==> pip freeze > requirement.txt
 
+2. pydantic ==> like typescript in js ==> help to define the structure of coming and sending response
+
